@@ -1,0 +1,222 @@
+Date : 2025-06-21 22:31:52
+Directory : c:\Users\Jervi\Desktop\payment-with-laravel
+Total : 140 files,  23239 codes, 932 comments, 1093 blanks, all 25264 lines
+
+Languages
++--------------------+------------+------------+------------+------------+------------+
+| language           | files      | code       | comment    | blank      | total      |
++--------------------+------------+------------+------------+------------+------------+
+| JSON               |          5 |     16,671 |          0 |          4 |     16,675 |
+| TypeScript JSX     |         68 |      4,639 |         28 |        490 |      5,157 |
+| PHP                |         53 |      1,533 |        800 |        525 |      2,858 |
+| PostCSS            |          1 |        130 |          8 |         22 |        160 |
+| TypeScript         |          6 |         76 |          2 |         16 |         94 |
+| YAML               |          2 |         70 |          5 |         22 |         97 |
+| XML                |          3 |         52 |          0 |          3 |         55 |
+| JavaScript         |          1 |         42 |          1 |          2 |         45 |
+| JSON with Comments |          1 |         26 |         88 |          9 |        123 |
++--------------------+------------+------------+------------+------------+------------+
+
+Directories
++-------------------------------------------------------------------------------------------------------------------+------------+------------+------------+------------+------------+
+| path                                                                                                              | files      | code       | comment    | blank      | total      |
++-------------------------------------------------------------------------------------------------------------------+------------+------------+------------+------------+------------+
+| .                                                                                                                 |        140 |     23,239 |        932 |      1,093 |     25,264 |
+| . (Files)                                                                                                         |          9 |     16,796 |         89 |         18 |     16,903 |
+| .github                                                                                                           |          2 |         70 |          5 |         22 |         97 |
+| .github\workflows                                                                                                 |          2 |         70 |          5 |         22 |         97 |
+| app                                                                                                               |         17 |        452 |        146 |        126 |        724 |
+| app\Http                                                                                                          |         15 |        415 |        121 |        114 |        650 |
+| app\Http\Controllers                                                                                              |         11 |        296 |         71 |         83 |        450 |
+| app\Http\Controllers (Files)                                                                                      |          1 |          5 |          1 |          3 |          9 |
+| app\Http\Controllers\Auth                                                                                         |          8 |        223 |         55 |         59 |        337 |
+| app\Http\Controllers\Settings                                                                                     |          2 |         68 |         15 |         21 |        104 |
+| app\Http\Middleware                                                                                               |          2 |         45 |         24 |         12 |         81 |
+| app\Http\Requests                                                                                                 |          2 |         74 |         26 |         19 |        119 |
+| app\Http\Requests\Auth                                                                                            |          1 |         51 |         21 |         14 |         86 |
+| app\Http\Requests\Settings                                                                                        |          1 |         23 |          5 |          5 |         33 |
+| app\Models                                                                                                        |          1 |         25 |         17 |          7 |         49 |
+| app\Providers                                                                                                     |          1 |         12 |          8 |          5 |         25 |
+| bootstrap                                                                                                         |          2 |         27 |          1 |          6 |         34 |
+| config                                                                                                            |         11 |        502 |        579 |        203 |      1,284 |
+| database                                                                                                          |          5 |        148 |         37 |         28 |        213 |
+| database\factories                                                                                                |          1 |         25 |         14 |          6 |         45 |
+| database\migrations                                                                                               |          3 |        109 |         18 |         17 |        144 |
+| database\seeders                                                                                                  |          1 |         14 |          5 |          5 |         24 |
+| public                                                                                                            |          3 |         29 |          4 |          9 |         42 |
+| resources                                                                                                         |         75 |      4,862 |         38 |        536 |      5,436 |
+| resources\css                                                                                                     |          1 |        130 |          8 |         22 |        160 |
+| resources\js                                                                                                      |         73 |      4,691 |         30 |        504 |      5,225 |
+| resources\js (Files)                                                                                              |          2 |         40 |          6 |         10 |         56 |
+| resources\js\components                                                                                           |         44 |      2,816 |         14 |        299 |      3,129 |
+| resources\js\components (Files)                                                                                   |         21 |        681 |          2 |         80 |        763 |
+| resources\js\components\ui                                                                                        |         23 |      2,135 |         12 |        219 |      2,366 |
+| resources\js\hooks                                                                                                |          4 |         81 |          4 |         37 |        122 |
+| resources\js\layouts                                                                                              |          8 |        217 |          1 |         28 |        246 |
+| resources\js\layouts (Files)                                                                                      |          2 |         20 |          0 |          5 |         25 |
+| resources\js\layouts\app                                                                                          |          2 |         30 |          0 |          4 |         34 |
+| resources\js\layouts\auth                                                                                         |          3 |        107 |          0 |         11 |        118 |
+| resources\js\layouts\settings                                                                                     |          1 |         60 |          1 |          8 |         69 |
+| resources\js\lib                                                                                                  |          1 |          5 |          0 |          2 |          7 |
+| resources\js\pages                                                                                                |         11 |      1,491 |          4 |        118 |      1,613 |
+| resources\js\pages (Files)                                                                                        |          2 |        821 |          1 |          6 |        828 |
+| resources\js\pages\auth                                                                                           |          6 |        430 |          3 |         64 |        497 |
+| resources\js\pages\settings                                                                                       |          3 |        240 |          0 |         48 |        288 |
+| resources\js\types                                                                                                |          3 |         41 |          1 |         10 |         52 |
+| resources\views                                                                                                   |          1 |         41 |          0 |         10 |         51 |
+| routes                                                                                                            |          4 |         76 |          0 |         30 |        106 |
+| tests                                                                                                             |         12 |        277 |         33 |        115 |        425 |
+| tests (Files)                                                                                                     |          2 |         15 |         33 |         11 |         59 |
+| tests\Feature                                                                                                     |          9 |        258 |          0 |        102 |        360 |
+| tests\Feature (Files)                                                                                             |          2 |         15 |          0 |          8 |         23 |
+| tests\Feature\Auth                                                                                                |          5 |        145 |          0 |         63 |        208 |
+| tests\Feature\Settings                                                                                            |          2 |         98 |          0 |         31 |        129 |
+| tests\Unit                                                                                                        |          1 |          4 |          0 |          2 |          6 |
++-------------------------------------------------------------------------------------------------------------------+------------+------------+------------+------------+------------+
+
+Files
++-------------------------------------------------------------------------------------------------------------------+--------------------+------------+------------+------------+------------+
+| filename                                                                                                          | language           | code       | comment    | blank      | total      |
++-------------------------------------------------------------------------------------------------------------------+--------------------+------------+------------+------------+------------+
+| c:\Users\Jervi\Desktop\payment-with-laravel\.github\workflows\lint.yml                                            | YAML               |         31 |          5 |         10 |         46 |
+| c:\Users\Jervi\Desktop\payment-with-laravel\.github\workflows\tests.yml                                           | YAML               |         39 |          0 |         12 |         51 |
+| c:\Users\Jervi\Desktop\payment-with-laravel\app\Http\Controllers\Auth\AuthenticatedSessionController.php          | PHP                |         33 |          9 |         10 |         52 |
+| c:\Users\Jervi\Desktop\payment-with-laravel\app\Http\Controllers\Auth\ConfirmablePasswordController.php           | PHP                |         29 |          6 |          7 |         42 |
+| c:\Users\Jervi\Desktop\payment-with-laravel\app\Http\Controllers\Auth\EmailVerificationNotificationController.php | PHP                |         16 |          3 |          6 |         25 |
+| c:\Users\Jervi\Desktop\payment-with-laravel\app\Http\Controllers\Auth\EmailVerificationPromptController.php       | PHP                |         16 |          3 |          4 |         23 |
+| c:\Users\Jervi\Desktop\payment-with-laravel\app\Http\Controllers\Auth\NewPasswordController.php                   | PHP                |         47 |         14 |          9 |         70 |
+| c:\Users\Jervi\Desktop\payment-with-laravel\app\Http\Controllers\Auth\PasswordResetLinkController.php             | PHP                |         27 |          8 |          7 |         42 |
+| c:\Users\Jervi\Desktop\payment-with-laravel\app\Http\Controllers\Auth\RegisteredUserController.php                | PHP                |         35 |          8 |          9 |         52 |
+| c:\Users\Jervi\Desktop\payment-with-laravel\app\Http\Controllers\Auth\VerifyEmailController.php                   | PHP                |         20 |          4 |          7 |         31 |
+| c:\Users\Jervi\Desktop\payment-with-laravel\app\Http\Controllers\Controller.php                                   | PHP                |          5 |          1 |          3 |          9 |
+| c:\Users\Jervi\Desktop\payment-with-laravel\app\Http\Controllers\Settings\PasswordController.php                  | PHP                |         27 |          6 |          7 |         40 |
+| c:\Users\Jervi\Desktop\payment-with-laravel\app\Http\Controllers\Settings\ProfileController.php                   | PHP                |         41 |          9 |         14 |         64 |
+| c:\Users\Jervi\Desktop\payment-with-laravel\app\Http\Middleware\HandleAppearance.php                              | PHP                |         14 |          5 |          5 |         24 |
+| c:\Users\Jervi\Desktop\payment-with-laravel\app\Http\Middleware\HandleInertiaRequests.php                         | PHP                |         31 |         19 |          7 |         57 |
+| c:\Users\Jervi\Desktop\payment-with-laravel\app\Http\Requests\Auth\LoginRequest.php                               | PHP                |         51 |         21 |         14 |         86 |
+| c:\Users\Jervi\Desktop\payment-with-laravel\app\Http\Requests\Settings\ProfileUpdateRequest.php                   | PHP                |         23 |          5 |          5 |         33 |
+| c:\Users\Jervi\Desktop\payment-with-laravel\app\Models\User.php                                                   | PHP                |         25 |         17 |          7 |         49 |
+| c:\Users\Jervi\Desktop\payment-with-laravel\app\Providers\AppServiceProvider.php                                  | PHP                |         12 |          8 |          5 |         25 |
+| c:\Users\Jervi\Desktop\payment-with-laravel\bootstrap\app.php                                                     | PHP                |         23 |          1 |          4 |         28 |
+| c:\Users\Jervi\Desktop\payment-with-laravel\bootstrap\providers.php                                               | PHP                |          4 |          0 |          2 |          6 |
+| c:\Users\Jervi\Desktop\payment-with-laravel\components.json                                                       | JSON               |         21 |          0 |          1 |         22 |
+| c:\Users\Jervi\Desktop\payment-with-laravel\composer.json                                                         | JSON               |         86 |          0 |          0 |         86 |
+| c:\Users\Jervi\Desktop\payment-with-laravel\composer.lock                                                         | JSON               |      9,174 |          0 |          1 |      9,175 |
+| c:\Users\Jervi\Desktop\payment-with-laravel\config\app.php                                                        | PHP                |         22 |         82 |         23 |        127 |
+| c:\Users\Jervi\Desktop\payment-with-laravel\config\auth.php                                                       | PHP                |         28 |         74 |         14 |        116 |
+| c:\Users\Jervi\Desktop\payment-with-laravel\config\cache.php                                                      | PHP                |         57 |         34 |         18 |        109 |
+| c:\Users\Jervi\Desktop\payment-with-laravel\config\database.php                                                   | PHP                |        109 |         43 |         23 |        175 |
+| c:\Users\Jervi\Desktop\payment-with-laravel\config\filesystems.php                                                | PHP                |         36 |         32 |         13 |         81 |
+| c:\Users\Jervi\Desktop\payment-with-laravel\config\inertia.php                                                    | PHP                |         21 |         23 |         12 |         56 |
+| c:\Users\Jervi\Desktop\payment-with-laravel\config\logging.php                                                    | PHP                |         79 |         33 |         21 |        133 |
+| c:\Users\Jervi\Desktop\payment-with-laravel\config\mail.php                                                       | PHP                |         55 |         43 |         19 |        117 |
+| c:\Users\Jervi\Desktop\payment-with-laravel\config\queue.php                                                      | PHP                |         52 |         44 |         17 |        113 |
+| c:\Users\Jervi\Desktop\payment-with-laravel\config\services.php                                                   | PHP                |         20 |         11 |          8 |         39 |
+| c:\Users\Jervi\Desktop\payment-with-laravel\config\session.php                                                    | PHP                |         23 |        160 |         35 |        218 |
+| c:\Users\Jervi\Desktop\payment-with-laravel\database\factories\UserFactory.php                                    | PHP                |         25 |         14 |          6 |         45 |
+| c:\Users\Jervi\Desktop\payment-with-laravel\database\migrations\0001_01_01_000000_create_users_table.php          | PHP                |         38 |          6 |          6 |         50 |
+| c:\Users\Jervi\Desktop\payment-with-laravel\database\migrations\0001_01_01_000001_create_cache_table.php          | PHP                |         25 |          6 |          5 |         36 |
+| c:\Users\Jervi\Desktop\payment-with-laravel\database\migrations\0001_01_01_000002_create_jobs_table.php           | PHP                |         46 |          6 |          6 |         58 |
+| c:\Users\Jervi\Desktop\payment-with-laravel\database\seeders\DatabaseSeeder.php                                   | PHP                |         14 |          5 |          5 |         24 |
+| c:\Users\Jervi\Desktop\payment-with-laravel\eslint.config.js                                                      | JavaScript         |         42 |          1 |          2 |         45 |
+| c:\Users\Jervi\Desktop\payment-with-laravel\package-lock.json                                                     | JSON               |      7,326 |          0 |          1 |      7,327 |
+| c:\Users\Jervi\Desktop\payment-with-laravel\package.json                                                          | JSON               |         64 |          0 |          1 |         65 |
+| c:\Users\Jervi\Desktop\payment-with-laravel\phpunit.xml                                                           | XML                |         33 |          0 |          1 |         34 |
+| c:\Users\Jervi\Desktop\payment-with-laravel\public\favicon.svg                                                    | XML                |          3 |          0 |          1 |          4 |
+| c:\Users\Jervi\Desktop\payment-with-laravel\public\index.php                                                      | PHP                |         10 |          4 |          7 |         21 |
+| c:\Users\Jervi\Desktop\payment-with-laravel\public\logo.svg                                                       | XML                |         16 |          0 |          1 |         17 |
+| c:\Users\Jervi\Desktop\payment-with-laravel\resources\css\app.css                                                 | PostCSS            |        130 |          8 |         22 |        160 |
+| c:\Users\Jervi\Desktop\payment-with-laravel\resources\js\app.tsx                                                  | TypeScript JSX     |         18 |          1 |          6 |         25 |
+| c:\Users\Jervi\Desktop\payment-with-laravel\resources\js\components\app-content.tsx                               | TypeScript JSX     |         15 |          0 |          4 |         19 |
+| c:\Users\Jervi\Desktop\payment-with-laravel\resources\js\components\app-header.tsx                                | TypeScript JSX     |        171 |          2 |         10 |        183 |
+| c:\Users\Jervi\Desktop\payment-with-laravel\resources\js\components\app-logo-icon.tsx                             | TypeScript JSX     |         12 |          0 |          2 |         14 |
+| c:\Users\Jervi\Desktop\payment-with-laravel\resources\js\components\app-logo.tsx                                  | TypeScript JSX     |         13 |          0 |          2 |         15 |
+| c:\Users\Jervi\Desktop\payment-with-laravel\resources\js\components\app-shell.tsx                                 | TypeScript JSX     |         14 |          0 |          5 |         19 |
+| c:\Users\Jervi\Desktop\payment-with-laravel\resources\js\components\app-sidebar-header.tsx                        | TypeScript JSX     |         13 |          0 |          2 |         15 |
+| c:\Users\Jervi\Desktop\payment-with-laravel\resources\js\components\app-sidebar.tsx                               | TypeScript JSX     |         51 |          0 |          6 |         57 |
+| c:\Users\Jervi\Desktop\payment-with-laravel\resources\js\components\appearance-dropdown.tsx                       | TypeScript JSX     |         50 |          0 |          4 |         54 |
+| c:\Users\Jervi\Desktop\payment-with-laravel\resources\js\components\appearance-tabs.tsx                           | TypeScript JSX     |         31 |          0 |          4 |         35 |
+| c:\Users\Jervi\Desktop\payment-with-laravel\resources\js\components\breadcrumbs.tsx                               | TypeScript JSX     |         33 |          0 |          2 |         35 |
+| c:\Users\Jervi\Desktop\payment-with-laravel\resources\js\components\delete-user.tsx                               | TypeScript JSX     |         76 |          0 |         14 |         90 |
+| c:\Users\Jervi\Desktop\payment-with-laravel\resources\js\components\heading-small.tsx                             | TypeScript JSX     |          8 |          0 |          1 |          9 |
+| c:\Users\Jervi\Desktop\payment-with-laravel\resources\js\components\heading.tsx                                   | TypeScript JSX     |          8 |          0 |          1 |          9 |
+| c:\Users\Jervi\Desktop\payment-with-laravel\resources\js\components\icon.tsx                                      | TypeScript JSX     |          9 |          0 |          3 |         12 |
+| c:\Users\Jervi\Desktop\payment-with-laravel\resources\js\components\input-error.tsx                               | TypeScript JSX     |          9 |          0 |          2 |         11 |
+| c:\Users\Jervi\Desktop\payment-with-laravel\resources\js\components\nav-footer.tsx                                | TypeScript JSX     |         33 |          0 |          2 |         35 |
+| c:\Users\Jervi\Desktop\payment-with-laravel\resources\js\components\nav-main.tsx                                  | TypeScript JSX     |         23 |          0 |          2 |         25 |
+| c:\Users\Jervi\Desktop\payment-with-laravel\resources\js\components\nav-user.tsx                                  | TypeScript JSX     |         34 |          0 |          3 |         37 |
+| c:\Users\Jervi\Desktop\payment-with-laravel\resources\js\components\text-link.tsx                                 | TypeScript JSX     |         17 |          0 |          3 |         20 |
+| c:\Users\Jervi\Desktop\payment-with-laravel\resources\js\components\ui\alert.tsx                                  | TypeScript JSX     |         60 |          0 |          7 |         67 |
+| c:\Users\Jervi\Desktop\payment-with-laravel\resources\js\components\ui\avatar.tsx                                 | TypeScript JSX     |         46 |          0 |          6 |         52 |
+| c:\Users\Jervi\Desktop\payment-with-laravel\resources\js\components\ui\badge.tsx                                  | TypeScript JSX     |         41 |          0 |          6 |         47 |
+| c:\Users\Jervi\Desktop\payment-with-laravel\resources\js\components\ui\breadcrumb.tsx                             | TypeScript JSX     |         99 |          0 |         11 |        110 |
+| c:\Users\Jervi\Desktop\payment-with-laravel\resources\js\components\ui\button.tsx                                 | TypeScript JSX     |         53 |          0 |          6 |         59 |
+| c:\Users\Jervi\Desktop\payment-with-laravel\resources\js\components\ui\card.tsx                                   | TypeScript JSX     |         60 |          0 |          9 |         69 |
+| c:\Users\Jervi\Desktop\payment-with-laravel\resources\js\components\ui\checkbox.tsx                               | TypeScript JSX     |         27 |          0 |          4 |         31 |
+| c:\Users\Jervi\Desktop\payment-with-laravel\resources\js\components\ui\collapsible.tsx                            | TypeScript JSX     |         27 |          0 |          5 |         32 |
+| c:\Users\Jervi\Desktop\payment-with-laravel\resources\js\components\ui\dialog.tsx                                 | TypeScript JSX     |        121 |          0 |         13 |        134 |
+| c:\Users\Jervi\Desktop\payment-with-laravel\resources\js\components\ui\dropdown-menu.tsx                          | TypeScript JSX     |        238 |          0 |         18 |        256 |
+| c:\Users\Jervi\Desktop\payment-with-laravel\resources\js\components\ui\icon.tsx                                   | TypeScript JSX     |         11 |          0 |          4 |         15 |
+| c:\Users\Jervi\Desktop\payment-with-laravel\resources\js\components\ui\input.tsx                                  | TypeScript JSX     |         18 |          0 |          4 |         22 |
+| c:\Users\Jervi\Desktop\payment-with-laravel\resources\js\components\ui\label.tsx                                  | TypeScript JSX     |         19 |          0 |          4 |         23 |
+| c:\Users\Jervi\Desktop\payment-with-laravel\resources\js\components\ui\navigation-menu.tsx                        | TypeScript JSX     |        157 |          0 |         12 |        169 |
+| c:\Users\Jervi\Desktop\payment-with-laravel\resources\js\components\ui\placeholder-pattern.tsx                    | TypeScript JSX     |         17 |          0 |          4 |         21 |
+| c:\Users\Jervi\Desktop\payment-with-laravel\resources\js\components\ui\select.tsx                                 | TypeScript JSX     |        167 |          0 |         13 |        180 |
+| c:\Users\Jervi\Desktop\payment-with-laravel\resources\js\components\ui\separator.tsx                              | TypeScript JSX     |         23 |          0 |          4 |         27 |
+| c:\Users\Jervi\Desktop\payment-with-laravel\resources\js\components\ui\sheet.tsx                                  | TypeScript JSX     |        125 |          0 |         13 |        138 |
+| c:\Users\Jervi\Desktop\payment-with-laravel\resources\js\components\ui\sidebar.tsx                                | TypeScript JSX     |        656 |         12 |         54 |        722 |
+| c:\Users\Jervi\Desktop\payment-with-laravel\resources\js\components\ui\skeleton.tsx                               | TypeScript JSX     |         11 |          0 |          3 |         14 |
+| c:\Users\Jervi\Desktop\payment-with-laravel\resources\js\components\ui\toggle-group.tsx                           | TypeScript JSX     |         65 |          0 |          7 |         72 |
+| c:\Users\Jervi\Desktop\payment-with-laravel\resources\js\components\ui\toggle.tsx                                 | TypeScript JSX     |         41 |          0 |          5 |         46 |
+| c:\Users\Jervi\Desktop\payment-with-laravel\resources\js\components\ui\tooltip.tsx                                | TypeScript JSX     |         53 |          0 |          7 |         60 |
+| c:\Users\Jervi\Desktop\payment-with-laravel\resources\js\components\user-info.tsx                                 | TypeScript JSX     |         20 |          0 |          3 |         23 |
+| c:\Users\Jervi\Desktop\payment-with-laravel\resources\js\components\user-menu-content.tsx                         | TypeScript JSX     |         41 |          0 |          5 |         46 |
+| c:\Users\Jervi\Desktop\payment-with-laravel\resources\js\hooks\use-appearance.tsx                                 | TypeScript JSX     |         49 |          3 |         22 |         74 |
+| c:\Users\Jervi\Desktop\payment-with-laravel\resources\js\hooks\use-initials.tsx                                   | TypeScript JSX     |         11 |          0 |          5 |         16 |
+| c:\Users\Jervi\Desktop\payment-with-laravel\resources\js\hooks\use-mobile-navigation.ts                           | TypeScript         |          6 |          1 |          2 |          9 |
+| c:\Users\Jervi\Desktop\payment-with-laravel\resources\js\hooks\use-mobile.tsx                                     | TypeScript JSX     |         15 |          0 |          8 |         23 |
+| c:\Users\Jervi\Desktop\payment-with-laravel\resources\js\layouts\app-layout.tsx                                   | TypeScript JSX     |         12 |          0 |          3 |         15 |
+| c:\Users\Jervi\Desktop\payment-with-laravel\resources\js\layouts\app\app-header-layout.tsx                        | TypeScript JSX     |         13 |          0 |          2 |         15 |
+| c:\Users\Jervi\Desktop\payment-with-laravel\resources\js\layouts\app\app-sidebar-layout.tsx                       | TypeScript JSX     |         17 |          0 |          2 |         19 |
+| c:\Users\Jervi\Desktop\payment-with-laravel\resources\js\layouts\auth-layout.tsx                                  | TypeScript JSX     |          8 |          0 |          2 |         10 |
+| c:\Users\Jervi\Desktop\payment-with-laravel\resources\js\layouts\auth\auth-card-layout.tsx                        | TypeScript JSX     |         34 |          0 |          3 |         37 |
+| c:\Users\Jervi\Desktop\payment-with-laravel\resources\js\layouts\auth\auth-simple-layout.tsx                      | TypeScript JSX     |         31 |          0 |          4 |         35 |
+| c:\Users\Jervi\Desktop\payment-with-laravel\resources\js\layouts\auth\auth-split-layout.tsx                       | TypeScript JSX     |         42 |          0 |          4 |         46 |
+| c:\Users\Jervi\Desktop\payment-with-laravel\resources\js\layouts\settings\layout.tsx                              | TypeScript JSX     |         60 |          1 |          8 |         69 |
+| c:\Users\Jervi\Desktop\payment-with-laravel\resources\js\lib\utils.ts                                             | TypeScript         |          5 |          0 |          2 |          7 |
+| c:\Users\Jervi\Desktop\payment-with-laravel\resources\js\pages\auth\confirm-password.tsx                          | TypeScript JSX     |         51 |          1 |          9 |         61 |
+| c:\Users\Jervi\Desktop\payment-with-laravel\resources\js\pages\auth\forgot-password.tsx                           | TypeScript JSX     |         52 |          1 |         11 |         64 |
+| c:\Users\Jervi\Desktop\payment-with-laravel\resources\js\pages\auth\login.tsx                                     | TypeScript JSX     |         98 |          0 |         13 |        111 |
+| c:\Users\Jervi\Desktop\payment-with-laravel\resources\js\pages\auth\register.tsx                                  | TypeScript JSX     |        109 |          0 |         11 |        120 |
+| c:\Users\Jervi\Desktop\payment-with-laravel\resources\js\pages\auth\reset-password.tsx                            | TypeScript JSX     |         88 |          0 |         11 |         99 |
+| c:\Users\Jervi\Desktop\payment-with-laravel\resources\js\pages\auth\verify-email.tsx                              | TypeScript JSX     |         32 |          1 |          9 |         42 |
+| c:\Users\Jervi\Desktop\payment-with-laravel\resources\js\pages\dashboard.tsx                                      | TypeScript JSX     |         33 |          0 |          3 |         36 |
+| c:\Users\Jervi\Desktop\payment-with-laravel\resources\js\pages\settings\appearance.tsx                            | TypeScript JSX     |         25 |          0 |          6 |         31 |
+| c:\Users\Jervi\Desktop\payment-with-laravel\resources\js\pages\settings\password.tsx                              | TypeScript JSX     |        108 |          0 |         21 |        129 |
+| c:\Users\Jervi\Desktop\payment-with-laravel\resources\js\pages\settings\profile.tsx                               | TypeScript JSX     |        107 |          0 |         21 |        128 |
+| c:\Users\Jervi\Desktop\payment-with-laravel\resources\js\pages\welcome.tsx                                        | TypeScript JSX     |        788 |          1 |          3 |        792 |
+| c:\Users\Jervi\Desktop\payment-with-laravel\resources\js\ssr.tsx                                                  | TypeScript JSX     |         22 |          5 |          4 |         31 |
+| c:\Users\Jervi\Desktop\payment-with-laravel\resources\js\types\global.d.ts                                        | TypeScript         |          4 |          0 |          2 |          6 |
+| c:\Users\Jervi\Desktop\payment-with-laravel\resources\js\types\index.d.ts                                         | TypeScript         |         37 |          0 |          7 |         44 |
+| c:\Users\Jervi\Desktop\payment-with-laravel\resources\js\types\vite-env.d.ts                                      | TypeScript         |          0 |          1 |          1 |          2 |
+| c:\Users\Jervi\Desktop\payment-with-laravel\resources\views\app.blade.php                                         | PHP                |         41 |          0 |         10 |         51 |
+| c:\Users\Jervi\Desktop\payment-with-laravel\routes\auth.php                                                       | PHP                |         41 |          0 |         16 |         57 |
+| c:\Users\Jervi\Desktop\payment-with-laravel\routes\console.php                                                    | PHP                |          6 |          0 |          3 |          9 |
+| c:\Users\Jervi\Desktop\payment-with-laravel\routes\settings.php                                                   | PHP                |         16 |          0 |          6 |         22 |
+| c:\Users\Jervi\Desktop\payment-with-laravel\routes\web.php                                                        | PHP                |         13 |          0 |          5 |         18 |
+| c:\Users\Jervi\Desktop\payment-with-laravel\tests\Feature\Auth\AuthenticationTest.php                             | PHP                |         30 |          0 |         13 |         43 |
+| c:\Users\Jervi\Desktop\payment-with-laravel\tests\Feature\Auth\EmailVerificationTest.php                          | PHP                |         34 |          0 |         14 |         48 |
+| c:\Users\Jervi\Desktop\payment-with-laravel\tests\Feature\Auth\PasswordConfirmationTest.php                       | PHP                |         23 |          0 |         11 |         34 |
+| c:\Users\Jervi\Desktop\payment-with-laravel\tests\Feature\Auth\PasswordResetTest.php                              | PHP                |         42 |          0 |         20 |         62 |
+| c:\Users\Jervi\Desktop\payment-with-laravel\tests\Feature\Auth\RegistrationTest.php                               | PHP                |         16 |          0 |          5 |         21 |
+| c:\Users\Jervi\Desktop\payment-with-laravel\tests\Feature\DashboardTest.php                                       | PHP                |         10 |          0 |          5 |         15 |
+| c:\Users\Jervi\Desktop\payment-with-laravel\tests\Feature\ExampleTest.php                                         | PHP                |          5 |          0 |          3 |          8 |
+| c:\Users\Jervi\Desktop\payment-with-laravel\tests\Feature\Settings\PasswordUpdateTest.php                         | PHP                |         33 |          0 |          9 |         42 |
+| c:\Users\Jervi\Desktop\payment-with-laravel\tests\Feature\Settings\ProfileUpdateTest.php                          | PHP                |         65 |          0 |         22 |         87 |
+| c:\Users\Jervi\Desktop\payment-with-laravel\tests\Pest.php                                                        | PHP                |          9 |         32 |          7 |         48 |
+| c:\Users\Jervi\Desktop\payment-with-laravel\tests\TestCase.php                                                    | PHP                |          6 |          1 |          4 |         11 |
+| c:\Users\Jervi\Desktop\payment-with-laravel\tests\Unit\ExampleTest.php                                            | PHP                |          4 |          0 |          2 |          6 |
+| c:\Users\Jervi\Desktop\payment-with-laravel\tsconfig.json                                                         | JSON with Comments |         26 |         88 |          9 |        123 |
+| c:\Users\Jervi\Desktop\payment-with-laravel\vite.config.ts                                                        | TypeScript         |         24 |          0 |          2 |         26 |
+| Total                                                                                                             |                    |     23,239 |        932 |      1,093 |     25,264 |
++-------------------------------------------------------------------------------------------------------------------+--------------------+------------+------------+------------+------------+
