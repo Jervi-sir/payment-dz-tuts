@@ -1,0 +1,142 @@
+"filename", "language", "TypeScript", "PHP", "JSON with Comments", "TypeScript JSX", "PostCSS", "XML", "JSON", "JavaScript", "YAML", "comment", "blank", "total"
+"c:\Users\Jervi\Desktop\payment-with-laravel\.github\workflows\lint.yml", "YAML", 0, 0, 0, 0, 0, 0, 0, 0, 31, 5, 10, 46
+"c:\Users\Jervi\Desktop\payment-with-laravel\.github\workflows\tests.yml", "YAML", 0, 0, 0, 0, 0, 0, 0, 0, 39, 0, 12, 51
+"c:\Users\Jervi\Desktop\payment-with-laravel\app\Http\Controllers\Auth\AuthenticatedSessionController.php", "PHP", 0, 33, 0, 0, 0, 0, 0, 0, 0, 9, 10, 52
+"c:\Users\Jervi\Desktop\payment-with-laravel\app\Http\Controllers\Auth\ConfirmablePasswordController.php", "PHP", 0, 29, 0, 0, 0, 0, 0, 0, 0, 6, 7, 42
+"c:\Users\Jervi\Desktop\payment-with-laravel\app\Http\Controllers\Auth\EmailVerificationNotificationController.php", "PHP", 0, 16, 0, 0, 0, 0, 0, 0, 0, 3, 6, 25
+"c:\Users\Jervi\Desktop\payment-with-laravel\app\Http\Controllers\Auth\EmailVerificationPromptController.php", "PHP", 0, 16, 0, 0, 0, 0, 0, 0, 0, 3, 4, 23
+"c:\Users\Jervi\Desktop\payment-with-laravel\app\Http\Controllers\Auth\NewPasswordController.php", "PHP", 0, 47, 0, 0, 0, 0, 0, 0, 0, 14, 9, 70
+"c:\Users\Jervi\Desktop\payment-with-laravel\app\Http\Controllers\Auth\PasswordResetLinkController.php", "PHP", 0, 27, 0, 0, 0, 0, 0, 0, 0, 8, 7, 42
+"c:\Users\Jervi\Desktop\payment-with-laravel\app\Http\Controllers\Auth\RegisteredUserController.php", "PHP", 0, 35, 0, 0, 0, 0, 0, 0, 0, 8, 9, 52
+"c:\Users\Jervi\Desktop\payment-with-laravel\app\Http\Controllers\Auth\VerifyEmailController.php", "PHP", 0, 20, 0, 0, 0, 0, 0, 0, 0, 4, 7, 31
+"c:\Users\Jervi\Desktop\payment-with-laravel\app\Http\Controllers\Controller.php", "PHP", 0, 5, 0, 0, 0, 0, 0, 0, 0, 1, 3, 9
+"c:\Users\Jervi\Desktop\payment-with-laravel\app\Http\Controllers\Settings\PasswordController.php", "PHP", 0, 27, 0, 0, 0, 0, 0, 0, 0, 6, 7, 40
+"c:\Users\Jervi\Desktop\payment-with-laravel\app\Http\Controllers\Settings\ProfileController.php", "PHP", 0, 41, 0, 0, 0, 0, 0, 0, 0, 9, 14, 64
+"c:\Users\Jervi\Desktop\payment-with-laravel\app\Http\Middleware\HandleAppearance.php", "PHP", 0, 14, 0, 0, 0, 0, 0, 0, 0, 5, 5, 24
+"c:\Users\Jervi\Desktop\payment-with-laravel\app\Http\Middleware\HandleInertiaRequests.php", "PHP", 0, 31, 0, 0, 0, 0, 0, 0, 0, 19, 7, 57
+"c:\Users\Jervi\Desktop\payment-with-laravel\app\Http\Requests\Auth\LoginRequest.php", "PHP", 0, 51, 0, 0, 0, 0, 0, 0, 0, 21, 14, 86
+"c:\Users\Jervi\Desktop\payment-with-laravel\app\Http\Requests\Settings\ProfileUpdateRequest.php", "PHP", 0, 23, 0, 0, 0, 0, 0, 0, 0, 5, 5, 33
+"c:\Users\Jervi\Desktop\payment-with-laravel\app\Models\User.php", "PHP", 0, 25, 0, 0, 0, 0, 0, 0, 0, 17, 7, 49
+"c:\Users\Jervi\Desktop\payment-with-laravel\app\Providers\AppServiceProvider.php", "PHP", 0, 12, 0, 0, 0, 0, 0, 0, 0, 8, 5, 25
+"c:\Users\Jervi\Desktop\payment-with-laravel\bootstrap\app.php", "PHP", 0, 23, 0, 0, 0, 0, 0, 0, 0, 1, 4, 28
+"c:\Users\Jervi\Desktop\payment-with-laravel\bootstrap\providers.php", "PHP", 0, 4, 0, 0, 0, 0, 0, 0, 0, 0, 2, 6
+"c:\Users\Jervi\Desktop\payment-with-laravel\components.json", "JSON", 0, 0, 0, 0, 0, 0, 21, 0, 0, 0, 1, 22
+"c:\Users\Jervi\Desktop\payment-with-laravel\composer.json", "JSON", 0, 0, 0, 0, 0, 0, 86, 0, 0, 0, 0, 86
+"c:\Users\Jervi\Desktop\payment-with-laravel\composer.lock", "JSON", 0, 0, 0, 0, 0, 0, 9174, 0, 0, 0, 1, 9175
+"c:\Users\Jervi\Desktop\payment-with-laravel\config\app.php", "PHP", 0, 22, 0, 0, 0, 0, 0, 0, 0, 82, 23, 127
+"c:\Users\Jervi\Desktop\payment-with-laravel\config\auth.php", "PHP", 0, 28, 0, 0, 0, 0, 0, 0, 0, 74, 14, 116
+"c:\Users\Jervi\Desktop\payment-with-laravel\config\cache.php", "PHP", 0, 57, 0, 0, 0, 0, 0, 0, 0, 34, 18, 109
+"c:\Users\Jervi\Desktop\payment-with-laravel\config\database.php", "PHP", 0, 109, 0, 0, 0, 0, 0, 0, 0, 43, 23, 175
+"c:\Users\Jervi\Desktop\payment-with-laravel\config\filesystems.php", "PHP", 0, 36, 0, 0, 0, 0, 0, 0, 0, 32, 13, 81
+"c:\Users\Jervi\Desktop\payment-with-laravel\config\inertia.php", "PHP", 0, 21, 0, 0, 0, 0, 0, 0, 0, 23, 12, 56
+"c:\Users\Jervi\Desktop\payment-with-laravel\config\logging.php", "PHP", 0, 79, 0, 0, 0, 0, 0, 0, 0, 33, 21, 133
+"c:\Users\Jervi\Desktop\payment-with-laravel\config\mail.php", "PHP", 0, 55, 0, 0, 0, 0, 0, 0, 0, 43, 19, 117
+"c:\Users\Jervi\Desktop\payment-with-laravel\config\queue.php", "PHP", 0, 52, 0, 0, 0, 0, 0, 0, 0, 44, 17, 113
+"c:\Users\Jervi\Desktop\payment-with-laravel\config\services.php", "PHP", 0, 20, 0, 0, 0, 0, 0, 0, 0, 11, 8, 39
+"c:\Users\Jervi\Desktop\payment-with-laravel\config\session.php", "PHP", 0, 23, 0, 0, 0, 0, 0, 0, 0, 160, 35, 218
+"c:\Users\Jervi\Desktop\payment-with-laravel\database\factories\UserFactory.php", "PHP", 0, 25, 0, 0, 0, 0, 0, 0, 0, 14, 6, 45
+"c:\Users\Jervi\Desktop\payment-with-laravel\database\migrations\0001_01_01_000000_create_users_table.php", "PHP", 0, 38, 0, 0, 0, 0, 0, 0, 0, 6, 6, 50
+"c:\Users\Jervi\Desktop\payment-with-laravel\database\migrations\0001_01_01_000001_create_cache_table.php", "PHP", 0, 25, 0, 0, 0, 0, 0, 0, 0, 6, 5, 36
+"c:\Users\Jervi\Desktop\payment-with-laravel\database\migrations\0001_01_01_000002_create_jobs_table.php", "PHP", 0, 46, 0, 0, 0, 0, 0, 0, 0, 6, 6, 58
+"c:\Users\Jervi\Desktop\payment-with-laravel\database\seeders\DatabaseSeeder.php", "PHP", 0, 14, 0, 0, 0, 0, 0, 0, 0, 5, 5, 24
+"c:\Users\Jervi\Desktop\payment-with-laravel\eslint.config.js", "JavaScript", 0, 0, 0, 0, 0, 0, 0, 42, 0, 1, 2, 45
+"c:\Users\Jervi\Desktop\payment-with-laravel\package-lock.json", "JSON", 0, 0, 0, 0, 0, 0, 7326, 0, 0, 0, 1, 7327
+"c:\Users\Jervi\Desktop\payment-with-laravel\package.json", "JSON", 0, 0, 0, 0, 0, 0, 64, 0, 0, 0, 1, 65
+"c:\Users\Jervi\Desktop\payment-with-laravel\phpunit.xml", "XML", 0, 0, 0, 0, 0, 33, 0, 0, 0, 0, 1, 34
+"c:\Users\Jervi\Desktop\payment-with-laravel\public\favicon.svg", "XML", 0, 0, 0, 0, 0, 3, 0, 0, 0, 0, 1, 4
+"c:\Users\Jervi\Desktop\payment-with-laravel\public\index.php", "PHP", 0, 10, 0, 0, 0, 0, 0, 0, 0, 4, 7, 21
+"c:\Users\Jervi\Desktop\payment-with-laravel\public\logo.svg", "XML", 0, 0, 0, 0, 0, 16, 0, 0, 0, 0, 1, 17
+"c:\Users\Jervi\Desktop\payment-with-laravel\resources\css\app.css", "PostCSS", 0, 0, 0, 0, 130, 0, 0, 0, 0, 8, 22, 160
+"c:\Users\Jervi\Desktop\payment-with-laravel\resources\js\app.tsx", "TypeScript JSX", 0, 0, 0, 18, 0, 0, 0, 0, 0, 1, 6, 25
+"c:\Users\Jervi\Desktop\payment-with-laravel\resources\js\components\app-content.tsx", "TypeScript JSX", 0, 0, 0, 15, 0, 0, 0, 0, 0, 0, 4, 19
+"c:\Users\Jervi\Desktop\payment-with-laravel\resources\js\components\app-header.tsx", "TypeScript JSX", 0, 0, 0, 171, 0, 0, 0, 0, 0, 2, 10, 183
+"c:\Users\Jervi\Desktop\payment-with-laravel\resources\js\components\app-logo-icon.tsx", "TypeScript JSX", 0, 0, 0, 12, 0, 0, 0, 0, 0, 0, 2, 14
+"c:\Users\Jervi\Desktop\payment-with-laravel\resources\js\components\app-logo.tsx", "TypeScript JSX", 0, 0, 0, 13, 0, 0, 0, 0, 0, 0, 2, 15
+"c:\Users\Jervi\Desktop\payment-with-laravel\resources\js\components\app-shell.tsx", "TypeScript JSX", 0, 0, 0, 14, 0, 0, 0, 0, 0, 0, 5, 19
+"c:\Users\Jervi\Desktop\payment-with-laravel\resources\js\components\app-sidebar-header.tsx", "TypeScript JSX", 0, 0, 0, 13, 0, 0, 0, 0, 0, 0, 2, 15
+"c:\Users\Jervi\Desktop\payment-with-laravel\resources\js\components\app-sidebar.tsx", "TypeScript JSX", 0, 0, 0, 51, 0, 0, 0, 0, 0, 0, 6, 57
+"c:\Users\Jervi\Desktop\payment-with-laravel\resources\js\components\appearance-dropdown.tsx", "TypeScript JSX", 0, 0, 0, 50, 0, 0, 0, 0, 0, 0, 4, 54
+"c:\Users\Jervi\Desktop\payment-with-laravel\resources\js\components\appearance-tabs.tsx", "TypeScript JSX", 0, 0, 0, 31, 0, 0, 0, 0, 0, 0, 4, 35
+"c:\Users\Jervi\Desktop\payment-with-laravel\resources\js\components\breadcrumbs.tsx", "TypeScript JSX", 0, 0, 0, 33, 0, 0, 0, 0, 0, 0, 2, 35
+"c:\Users\Jervi\Desktop\payment-with-laravel\resources\js\components\delete-user.tsx", "TypeScript JSX", 0, 0, 0, 76, 0, 0, 0, 0, 0, 0, 14, 90
+"c:\Users\Jervi\Desktop\payment-with-laravel\resources\js\components\heading-small.tsx", "TypeScript JSX", 0, 0, 0, 8, 0, 0, 0, 0, 0, 0, 1, 9
+"c:\Users\Jervi\Desktop\payment-with-laravel\resources\js\components\heading.tsx", "TypeScript JSX", 0, 0, 0, 8, 0, 0, 0, 0, 0, 0, 1, 9
+"c:\Users\Jervi\Desktop\payment-with-laravel\resources\js\components\icon.tsx", "TypeScript JSX", 0, 0, 0, 9, 0, 0, 0, 0, 0, 0, 3, 12
+"c:\Users\Jervi\Desktop\payment-with-laravel\resources\js\components\input-error.tsx", "TypeScript JSX", 0, 0, 0, 9, 0, 0, 0, 0, 0, 0, 2, 11
+"c:\Users\Jervi\Desktop\payment-with-laravel\resources\js\components\nav-footer.tsx", "TypeScript JSX", 0, 0, 0, 33, 0, 0, 0, 0, 0, 0, 2, 35
+"c:\Users\Jervi\Desktop\payment-with-laravel\resources\js\components\nav-main.tsx", "TypeScript JSX", 0, 0, 0, 23, 0, 0, 0, 0, 0, 0, 2, 25
+"c:\Users\Jervi\Desktop\payment-with-laravel\resources\js\components\nav-user.tsx", "TypeScript JSX", 0, 0, 0, 34, 0, 0, 0, 0, 0, 0, 3, 37
+"c:\Users\Jervi\Desktop\payment-with-laravel\resources\js\components\text-link.tsx", "TypeScript JSX", 0, 0, 0, 17, 0, 0, 0, 0, 0, 0, 3, 20
+"c:\Users\Jervi\Desktop\payment-with-laravel\resources\js\components\ui\alert.tsx", "TypeScript JSX", 0, 0, 0, 60, 0, 0, 0, 0, 0, 0, 7, 67
+"c:\Users\Jervi\Desktop\payment-with-laravel\resources\js\components\ui\avatar.tsx", "TypeScript JSX", 0, 0, 0, 46, 0, 0, 0, 0, 0, 0, 6, 52
+"c:\Users\Jervi\Desktop\payment-with-laravel\resources\js\components\ui\badge.tsx", "TypeScript JSX", 0, 0, 0, 41, 0, 0, 0, 0, 0, 0, 6, 47
+"c:\Users\Jervi\Desktop\payment-with-laravel\resources\js\components\ui\breadcrumb.tsx", "TypeScript JSX", 0, 0, 0, 99, 0, 0, 0, 0, 0, 0, 11, 110
+"c:\Users\Jervi\Desktop\payment-with-laravel\resources\js\components\ui\button.tsx", "TypeScript JSX", 0, 0, 0, 53, 0, 0, 0, 0, 0, 0, 6, 59
+"c:\Users\Jervi\Desktop\payment-with-laravel\resources\js\components\ui\card.tsx", "TypeScript JSX", 0, 0, 0, 60, 0, 0, 0, 0, 0, 0, 9, 69
+"c:\Users\Jervi\Desktop\payment-with-laravel\resources\js\components\ui\checkbox.tsx", "TypeScript JSX", 0, 0, 0, 27, 0, 0, 0, 0, 0, 0, 4, 31
+"c:\Users\Jervi\Desktop\payment-with-laravel\resources\js\components\ui\collapsible.tsx", "TypeScript JSX", 0, 0, 0, 27, 0, 0, 0, 0, 0, 0, 5, 32
+"c:\Users\Jervi\Desktop\payment-with-laravel\resources\js\components\ui\dialog.tsx", "TypeScript JSX", 0, 0, 0, 121, 0, 0, 0, 0, 0, 0, 13, 134
+"c:\Users\Jervi\Desktop\payment-with-laravel\resources\js\components\ui\dropdown-menu.tsx", "TypeScript JSX", 0, 0, 0, 238, 0, 0, 0, 0, 0, 0, 18, 256
+"c:\Users\Jervi\Desktop\payment-with-laravel\resources\js\components\ui\icon.tsx", "TypeScript JSX", 0, 0, 0, 11, 0, 0, 0, 0, 0, 0, 4, 15
+"c:\Users\Jervi\Desktop\payment-with-laravel\resources\js\components\ui\input.tsx", "TypeScript JSX", 0, 0, 0, 18, 0, 0, 0, 0, 0, 0, 4, 22
+"c:\Users\Jervi\Desktop\payment-with-laravel\resources\js\components\ui\label.tsx", "TypeScript JSX", 0, 0, 0, 19, 0, 0, 0, 0, 0, 0, 4, 23
+"c:\Users\Jervi\Desktop\payment-with-laravel\resources\js\components\ui\navigation-menu.tsx", "TypeScript JSX", 0, 0, 0, 157, 0, 0, 0, 0, 0, 0, 12, 169
+"c:\Users\Jervi\Desktop\payment-with-laravel\resources\js\components\ui\placeholder-pattern.tsx", "TypeScript JSX", 0, 0, 0, 17, 0, 0, 0, 0, 0, 0, 4, 21
+"c:\Users\Jervi\Desktop\payment-with-laravel\resources\js\components\ui\select.tsx", "TypeScript JSX", 0, 0, 0, 167, 0, 0, 0, 0, 0, 0, 13, 180
+"c:\Users\Jervi\Desktop\payment-with-laravel\resources\js\components\ui\separator.tsx", "TypeScript JSX", 0, 0, 0, 23, 0, 0, 0, 0, 0, 0, 4, 27
+"c:\Users\Jervi\Desktop\payment-with-laravel\resources\js\components\ui\sheet.tsx", "TypeScript JSX", 0, 0, 0, 125, 0, 0, 0, 0, 0, 0, 13, 138
+"c:\Users\Jervi\Desktop\payment-with-laravel\resources\js\components\ui\sidebar.tsx", "TypeScript JSX", 0, 0, 0, 656, 0, 0, 0, 0, 0, 12, 54, 722
+"c:\Users\Jervi\Desktop\payment-with-laravel\resources\js\components\ui\skeleton.tsx", "TypeScript JSX", 0, 0, 0, 11, 0, 0, 0, 0, 0, 0, 3, 14
+"c:\Users\Jervi\Desktop\payment-with-laravel\resources\js\components\ui\toggle-group.tsx", "TypeScript JSX", 0, 0, 0, 65, 0, 0, 0, 0, 0, 0, 7, 72
+"c:\Users\Jervi\Desktop\payment-with-laravel\resources\js\components\ui\toggle.tsx", "TypeScript JSX", 0, 0, 0, 41, 0, 0, 0, 0, 0, 0, 5, 46
+"c:\Users\Jervi\Desktop\payment-with-laravel\resources\js\components\ui\tooltip.tsx", "TypeScript JSX", 0, 0, 0, 53, 0, 0, 0, 0, 0, 0, 7, 60
+"c:\Users\Jervi\Desktop\payment-with-laravel\resources\js\components\user-info.tsx", "TypeScript JSX", 0, 0, 0, 20, 0, 0, 0, 0, 0, 0, 3, 23
+"c:\Users\Jervi\Desktop\payment-with-laravel\resources\js\components\user-menu-content.tsx", "TypeScript JSX", 0, 0, 0, 41, 0, 0, 0, 0, 0, 0, 5, 46
+"c:\Users\Jervi\Desktop\payment-with-laravel\resources\js\hooks\use-appearance.tsx", "TypeScript JSX", 0, 0, 0, 49, 0, 0, 0, 0, 0, 3, 22, 74
+"c:\Users\Jervi\Desktop\payment-with-laravel\resources\js\hooks\use-initials.tsx", "TypeScript JSX", 0, 0, 0, 11, 0, 0, 0, 0, 0, 0, 5, 16
+"c:\Users\Jervi\Desktop\payment-with-laravel\resources\js\hooks\use-mobile-navigation.ts", "TypeScript", 6, 0, 0, 0, 0, 0, 0, 0, 0, 1, 2, 9
+"c:\Users\Jervi\Desktop\payment-with-laravel\resources\js\hooks\use-mobile.tsx", "TypeScript JSX", 0, 0, 0, 15, 0, 0, 0, 0, 0, 0, 8, 23
+"c:\Users\Jervi\Desktop\payment-with-laravel\resources\js\layouts\app-layout.tsx", "TypeScript JSX", 0, 0, 0, 12, 0, 0, 0, 0, 0, 0, 3, 15
+"c:\Users\Jervi\Desktop\payment-with-laravel\resources\js\layouts\app\app-header-layout.tsx", "TypeScript JSX", 0, 0, 0, 13, 0, 0, 0, 0, 0, 0, 2, 15
+"c:\Users\Jervi\Desktop\payment-with-laravel\resources\js\layouts\app\app-sidebar-layout.tsx", "TypeScript JSX", 0, 0, 0, 17, 0, 0, 0, 0, 0, 0, 2, 19
+"c:\Users\Jervi\Desktop\payment-with-laravel\resources\js\layouts\auth-layout.tsx", "TypeScript JSX", 0, 0, 0, 8, 0, 0, 0, 0, 0, 0, 2, 10
+"c:\Users\Jervi\Desktop\payment-with-laravel\resources\js\layouts\auth\auth-card-layout.tsx", "TypeScript JSX", 0, 0, 0, 34, 0, 0, 0, 0, 0, 0, 3, 37
+"c:\Users\Jervi\Desktop\payment-with-laravel\resources\js\layouts\auth\auth-simple-layout.tsx", "TypeScript JSX", 0, 0, 0, 31, 0, 0, 0, 0, 0, 0, 4, 35
+"c:\Users\Jervi\Desktop\payment-with-laravel\resources\js\layouts\auth\auth-split-layout.tsx", "TypeScript JSX", 0, 0, 0, 42, 0, 0, 0, 0, 0, 0, 4, 46
+"c:\Users\Jervi\Desktop\payment-with-laravel\resources\js\layouts\settings\layout.tsx", "TypeScript JSX", 0, 0, 0, 60, 0, 0, 0, 0, 0, 1, 8, 69
+"c:\Users\Jervi\Desktop\payment-with-laravel\resources\js\lib\utils.ts", "TypeScript", 5, 0, 0, 0, 0, 0, 0, 0, 0, 0, 2, 7
+"c:\Users\Jervi\Desktop\payment-with-laravel\resources\js\pages\auth\confirm-password.tsx", "TypeScript JSX", 0, 0, 0, 51, 0, 0, 0, 0, 0, 1, 9, 61
+"c:\Users\Jervi\Desktop\payment-with-laravel\resources\js\pages\auth\forgot-password.tsx", "TypeScript JSX", 0, 0, 0, 52, 0, 0, 0, 0, 0, 1, 11, 64
+"c:\Users\Jervi\Desktop\payment-with-laravel\resources\js\pages\auth\login.tsx", "TypeScript JSX", 0, 0, 0, 98, 0, 0, 0, 0, 0, 0, 13, 111
+"c:\Users\Jervi\Desktop\payment-with-laravel\resources\js\pages\auth\register.tsx", "TypeScript JSX", 0, 0, 0, 109, 0, 0, 0, 0, 0, 0, 11, 120
+"c:\Users\Jervi\Desktop\payment-with-laravel\resources\js\pages\auth\reset-password.tsx", "TypeScript JSX", 0, 0, 0, 88, 0, 0, 0, 0, 0, 0, 11, 99
+"c:\Users\Jervi\Desktop\payment-with-laravel\resources\js\pages\auth\verify-email.tsx", "TypeScript JSX", 0, 0, 0, 32, 0, 0, 0, 0, 0, 1, 9, 42
+"c:\Users\Jervi\Desktop\payment-with-laravel\resources\js\pages\dashboard.tsx", "TypeScript JSX", 0, 0, 0, 33, 0, 0, 0, 0, 0, 0, 3, 36
+"c:\Users\Jervi\Desktop\payment-with-laravel\resources\js\pages\settings\appearance.tsx", "TypeScript JSX", 0, 0, 0, 25, 0, 0, 0, 0, 0, 0, 6, 31
+"c:\Users\Jervi\Desktop\payment-with-laravel\resources\js\pages\settings\password.tsx", "TypeScript JSX", 0, 0, 0, 108, 0, 0, 0, 0, 0, 0, 21, 129
+"c:\Users\Jervi\Desktop\payment-with-laravel\resources\js\pages\settings\profile.tsx", "TypeScript JSX", 0, 0, 0, 107, 0, 0, 0, 0, 0, 0, 21, 128
+"c:\Users\Jervi\Desktop\payment-with-laravel\resources\js\pages\welcome.tsx", "TypeScript JSX", 0, 0, 0, 788, 0, 0, 0, 0, 0, 1, 3, 792
+"c:\Users\Jervi\Desktop\payment-with-laravel\resources\js\ssr.tsx", "TypeScript JSX", 0, 0, 0, 22, 0, 0, 0, 0, 0, 5, 4, 31
+"c:\Users\Jervi\Desktop\payment-with-laravel\resources\js\types\global.d.ts", "TypeScript", 4, 0, 0, 0, 0, 0, 0, 0, 0, 0, 2, 6
+"c:\Users\Jervi\Desktop\payment-with-laravel\resources\js\types\index.d.ts", "TypeScript", 37, 0, 0, 0, 0, 0, 0, 0, 0, 0, 7, 44
+"c:\Users\Jervi\Desktop\payment-with-laravel\resources\js\types\vite-env.d.ts", "TypeScript", 0, 0, 0, 0, 0, 0, 0, 0, 0, 1, 1, 2
+"c:\Users\Jervi\Desktop\payment-with-laravel\resources\views\app.blade.php", "PHP", 0, 41, 0, 0, 0, 0, 0, 0, 0, 0, 10, 51
+"c:\Users\Jervi\Desktop\payment-with-laravel\routes\auth.php", "PHP", 0, 41, 0, 0, 0, 0, 0, 0, 0, 0, 16, 57
+"c:\Users\Jervi\Desktop\payment-with-laravel\routes\console.php", "PHP", 0, 6, 0, 0, 0, 0, 0, 0, 0, 0, 3, 9
+"c:\Users\Jervi\Desktop\payment-with-laravel\routes\settings.php", "PHP", 0, 16, 0, 0, 0, 0, 0, 0, 0, 0, 6, 22
+"c:\Users\Jervi\Desktop\payment-with-laravel\routes\web.php", "PHP", 0, 13, 0, 0, 0, 0, 0, 0, 0, 0, 5, 18
+"c:\Users\Jervi\Desktop\payment-with-laravel\tests\Feature\Auth\AuthenticationTest.php", "PHP", 0, 30, 0, 0, 0, 0, 0, 0, 0, 0, 13, 43
+"c:\Users\Jervi\Desktop\payment-with-laravel\tests\Feature\Auth\EmailVerificationTest.php", "PHP", 0, 34, 0, 0, 0, 0, 0, 0, 0, 0, 14, 48
+"c:\Users\Jervi\Desktop\payment-with-laravel\tests\Feature\Auth\PasswordConfirmationTest.php", "PHP", 0, 23, 0, 0, 0, 0, 0, 0, 0, 0, 11, 34
+"c:\Users\Jervi\Desktop\payment-with-laravel\tests\Feature\Auth\PasswordResetTest.php", "PHP", 0, 42, 0, 0, 0, 0, 0, 0, 0, 0, 20, 62
+"c:\Users\Jervi\Desktop\payment-with-laravel\tests\Feature\Auth\RegistrationTest.php", "PHP", 0, 16, 0, 0, 0, 0, 0, 0, 0, 0, 5, 21
+"c:\Users\Jervi\Desktop\payment-with-laravel\tests\Feature\DashboardTest.php", "PHP", 0, 10, 0, 0, 0, 0, 0, 0, 0, 0, 5, 15
+"c:\Users\Jervi\Desktop\payment-with-laravel\tests\Feature\ExampleTest.php", "PHP", 0, 5, 0, 0, 0, 0, 0, 0, 0, 0, 3, 8
+"c:\Users\Jervi\Desktop\payment-with-laravel\tests\Feature\Settings\PasswordUpdateTest.php", "PHP", 0, 33, 0, 0, 0, 0, 0, 0, 0, 0, 9, 42
+"c:\Users\Jervi\Desktop\payment-with-laravel\tests\Feature\Settings\ProfileUpdateTest.php", "PHP", 0, 65, 0, 0, 0, 0, 0, 0, 0, 0, 22, 87
+"c:\Users\Jervi\Desktop\payment-with-laravel\tests\Pest.php", "PHP", 0, 9, 0, 0, 0, 0, 0, 0, 0, 32, 7, 48
+"c:\Users\Jervi\Desktop\payment-with-laravel\tests\TestCase.php", "PHP", 0, 6, 0, 0, 0, 0, 0, 0, 0, 1, 4, 11
+"c:\Users\Jervi\Desktop\payment-with-laravel\tests\Unit\ExampleTest.php", "PHP", 0, 4, 0, 0, 0, 0, 0, 0, 0, 0, 2, 6
+"c:\Users\Jervi\Desktop\payment-with-laravel\tsconfig.json", "JSON with Comments", 0, 0, 26, 0, 0, 0, 0, 0, 0, 88, 9, 123
+"c:\Users\Jervi\Desktop\payment-with-laravel\vite.config.ts", "TypeScript", 24, 0, 0, 0, 0, 0, 0, 0, 0, 0, 2, 26
+"Total", "-", 76, 1533, 26, 4639, 130, 52, 16671, 42, 70, 932, 1093, 25264
